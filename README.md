@@ -8,5 +8,8 @@ Estoy desarrollando estos sistemas para Unity con la idea de tener ya las bases 
 - Sistema de construcción y economia.
 - Sistema de movimiento y acciones.
 
+## Sistema de construcción y economia
+- Edificios: Cada edificio contiene dos scripts, uno para sus operaciones logicas y otro para su información. Cada archivo de datos de un edificio especifico hereda de [Building Data](BuildingData.cs) una serie de valores comunes en todos los edificios.
+
 ## Licencia
 Los proyectos y archivos contenidos en este repositorio está bajo la Licencia MIT. Consulta el archivo [Licencia MIT](LICENSE) para obtener más información.
