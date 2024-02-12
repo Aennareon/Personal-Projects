@@ -9,3 +9,4 @@ Estoy desarrollando estos sistemas para Unity con la idea de tener ya las bases 
 - Sistema de movimiento y acciones
 
 ## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
