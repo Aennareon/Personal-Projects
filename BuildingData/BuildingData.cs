@@ -6,7 +6,7 @@ using UnityEngine.Tilemaps;
 [System.Serializable]
 public class buildingStats
 {
-    [Header("Estadísticas Edificio")]
+    [Header("EstadÃ­sticas Edificio")]
     public float health;
     public float residents;
     public float goldGenerated;
