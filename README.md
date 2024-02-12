@@ -2,7 +2,8 @@
 !HOLA¡ Soy Miquel Riera.
 Este es un proyecto personal bajo desarrollo para un sistema de RTS.
 Soy un estudiante de animación, modelado 3D y programación de entornos interactivos.
-Estoy desarrollando estos sistemas para Unity con la idea de tener ya las bases para mi trabajo de fin de grado.
+Estoy desarrollando estos sistemas para Unity con la idea de tener ya las bases para mi trabajo de fin de grado y aprender en el proceso. 
+Ahora mismo solo inplemento sistemas individuales pero en un futuro espero crear otro repositorio para trabajar en mi proyecto final.
 
 ## Contenidos
 - Sistema de construcción y economia (RTS  3D)
