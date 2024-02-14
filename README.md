@@ -19,8 +19,8 @@ Me especializo en el motor Unity (Mis fortalezas són los VFX y shaders, program
 - Ayuntamiento y economia: Antes de empezar a construir siempre debe haber en la escena un edificio de ayuntamiento con el archivo maestro de gestión de economia [EconomyVault](BuildingSystemScripts/Economy/EconomyVault.cs) al que acceden los diferentes edicifios antes de empezar a aplicar sus operaciones logicas. Añadiré a la WIKI una explicación detallada del sistema economico implementado.
 
 ## Sistema de movimiento y acciones (Juego de Rol 2D)
-- Paquete de unity básico.
-- Carpeta de Scripts.
+- Paquete de unity básico -> [Paquete de Unity](2dRolMovement)
+- Carpeta de Scripts -> [Archivos](2dRolMovementScripts)
 - Este sistema permite seleccionar entidades con el ratón y moverlas haciendo click en una posición del escenario.
 - Ahora estoy implementando un sistema de selección multiple y de formaciones (Reordenar las entidades seleccionadas de forma ordenada en ubicación de destino).
 
