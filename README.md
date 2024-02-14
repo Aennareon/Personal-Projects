@@ -25,7 +25,7 @@ Me especializo en el motor Unity (Mis fortalezas són los VFX y shaders, program
 - Ahora estoy implementando un sistema de selección multiple y de formaciones (Reordenar las entidades seleccionadas de forma ordenada en ubicación de destino).
 
 ## Sistema de movimiento tridimenional para nave espacial (Proyecto 3D)
-- Script de movimiento
+- Script de movimiento -> [Archivo](SpaceShipMovementScripts/SpaceShipMovement.cs)
 - Sistema de gestión de nave espacial basado en el clásico juego de mesa "Star Fleet Battels" de Star Treck.
 - Movimiento tridimensional determinado por capacidad energetica de los motores.
 - Todo el movimiento por fuerzas.
