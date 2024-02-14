@@ -11,7 +11,7 @@ Me especializo en el motor Unity (mis fortalezas son los VFX y shaders, programa
 - Sistema de construcción y economía (RTS  3D)
 - Sistema de movimiento y acciones (juego de ROL 2D)
 - Sistema de movimiento tridimensional para nave espacial (Proyecto 3D)
-- WIKI completa con información más detallada y otros trabajos -> [URL página INICIO de WIKI](https://github.com/Aennareon/Personal-Projects/wiki/Inicio)
+- WIKI completa con información más detallada -> [URL página INICIO de WIKI](https://github.com/Aennareon/Personal-Projects/wiki/Inicio)
 
 ## Sistema de construcción y economía (RTS 3D)
 - Paquete de Unity básico. -> [Paquete de Unity](BuildingSystemScripts)
