@@ -32,7 +32,7 @@ Me especializo en el motor Unity (Mis fortalezas són los VFX y shaders, program
 - Movimiento tridimensional determinado por capacidad energetica de los motores.
 - Todo el movimiento por fuerzas.
 
-## Contactos personal
+## Contacto personal
 - email: xarxamiquelriera@gmail.com
 - Youtube: @Aennareon
 - Instagram: @aennareoon
