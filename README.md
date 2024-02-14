@@ -5,6 +5,7 @@ Soy un estudiante de animación, modelado 3D y programación de entornos interac
 Me especializo en el motor Unity (Mis fortalezas són los VFX y shaders, programación y GameDesign) pero también tengo bases de ilustración (Adobe Photoshop) y de modelado y texturizado 3D (Autodesk Maya).
 - Dejaré al final de este documento algunos datos de contacto.
 - Se pueden encontrar enlaces a mis redes sociales en mi perfil.
+- Para los interesados: Dispongo de una build de mi primer juego EXONEMA lista para jugar. Es un poco inestable pero fue mi primer proyecto y le tengo mucho cariño.
 
 ## Contenidos
 - Sistema de construcción y economia (RTS  3D)
