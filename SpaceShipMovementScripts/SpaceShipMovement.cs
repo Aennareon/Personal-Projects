@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class SpaceShipMovement : MonoBehaviour
 {
-    [Header("Físicas")]
+    [Header("FÃ­sicas")]
     public Rigidbody rb;
     private Vector3 moveVelocity;
 
@@ -35,7 +35,7 @@ public class SpaceShipMovement : MonoBehaviour
     private float rotCurrentT = 0;
 
 
-    [Header("Acceleración/Reservas E")]
+    [Header("AcceleraciÃ³n/Reservas E")]
     public float acceleration;
 
     private void Update()
